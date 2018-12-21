@@ -2,4 +2,4 @@
 target
 input
 *.iml
-test_input
+test_input*
